@@ -22,7 +22,7 @@ The goal of this project is to predict median house prices in California based o
 
 The dataset used in this project is the "California Housing Prices" dataset. It contains various attributes related to housing in different districts of California.
 
-- **Data Source**: [California Housing Prices Dataset]([#link-to-dataset](https://github.com/Abhishek0145/HousePricePrediction/blob/main/california_housing.csv))
+- **Data Source**: [California Housing Prices Dataset](https://github.com/Abhishek0145/HousePricePrediction/blob/main/california_housing.csv)
 
 ## Code
 
@@ -57,7 +57,7 @@ To run the code and reproduce the results:
 
 1. Clone this repository.
 2. Ensure you have the required Python libraries installed (`numpy`, `pandas`, `matplotlib`, `seaborn`, `scikit-learn`).
-3. Download the dataset from [here]([#link-to-dataset](https://github.com/Abhishek0145/HousePricePrediction/blob/main/california_housing.csv)) and place it in the project directory.
+3. Download the dataset from [here](https://github.com/Abhishek0145/HousePricePrediction/blob/main/california_housing.csv) and place it in the project directory.
 4. Run the Jupyter Notebook or Python script to execute the code.
 
 ## Contributing
